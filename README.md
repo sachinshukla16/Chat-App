@@ -1,1 +1,1 @@
-# JavaProjects
+# Chat-Application
